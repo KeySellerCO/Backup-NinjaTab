@@ -1,6 +1,41 @@
 {
   "collections": [
     {
+      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
+      "name": "Kodar.Ninja",
+      "isOpen": true,
+      "lastModified": 1774048653489,
+      "deleted": false,
+      "position": 3,
+      "bookmarks": [
+        {
+          "id": "615832c9-67ba-40a4-8dd3-9f69d1f4fb07",
+          "title": "Gemini AI",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=32",
+          "lastModified": 1774037642801,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        },
+        {
+          "id": "3e23ac09-6280-46be-b0b3-2bd6ebd2e685",
+          "title": "ChatGPT",
+          "url": "https://chatgpt.com/?_tm=project_not_found",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32",
+          "lastModified": 1774030678038,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
       "id": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788",
       "name": "Kişisel",
       "isOpen": true,
@@ -146,41 +181,6 @@
       ]
     },
     {
-      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
-      "name": "Kodar.Ninja",
-      "isOpen": true,
-      "lastModified": 1774048653489,
-      "deleted": false,
-      "position": 3,
-      "bookmarks": [
-        {
-          "id": "615832c9-67ba-40a4-8dd3-9f69d1f4fb07",
-          "title": "Gemini AI",
-          "url": "https://gemini.google.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=32",
-          "lastModified": 1774037642801,
-          "deleted": false,
-          "position": 1,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
-        },
-        {
-          "id": "3e23ac09-6280-46be-b0b3-2bd6ebd2e685",
-          "title": "ChatGPT",
-          "url": "https://chatgpt.com/?_tm=project_not_found",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32",
-          "lastModified": 1774030678038,
-          "deleted": false,
-          "position": 4,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
-        }
-      ],
-      "spaces": [
-        "Everything"
-      ]
-    },
-    {
       "id": "8f625cda-00f3-4c0b-9861-db3a8eaf4949",
       "name": "Alışveriş",
       "isOpen": true,
@@ -230,11 +230,11 @@
   ],
   "openInNewTab": true,
   "chromeWindowStates": {},
-  "darkMode": true,
+  "darkMode": false,
   "leftPaneOpen": true,
   "rightPaneOpen": true,
   "closeWhenSaveTab": true,
-  "activeLeftTab": "spaces",
+  "activeLeftTab": "settings",
   "zenMode": false,
   "spaces": [
     {
@@ -248,15 +248,15 @@
   "autoBackup": {
     "enabled": true,
     "frequency": "daily",
-    "keepDays": 3,
+    "keepDays": 7,
     "lastBackup": null,
-    "customFolderName": null,
-    "useCustomFolder": false
+    "customFolderName": "TheTabNinja",
+    "useCustomFolder": true
   },
   "githubConfig": {
     "username": "KeySellerCO",
     "repo": "Backup-NinjaTab",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1774048717496
+  "lastSynced": 1774048722720
 }
