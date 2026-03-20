@@ -1,12 +1,157 @@
 {
   "collections": [
     {
+      "id": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788",
+      "name": "Kişisel",
+      "isOpen": true,
+      "lastModified": 1774048653489,
+      "deleted": false,
+      "position": 2,
+      "bookmarks": [
+        {
+          "id": "2f1526b5-c372-4f1b-8abe-b2303683dc13",
+          "title": "Wordpress Yönetim",
+          "url": "https://veni.odeaweb.com:2083/cpsess8451895992/frontend/jupiter/softaculous/index.live.php?act=wordpress",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048347924,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "e47a9370-f545-4925-a232-9b5ec4fa7de4",
+          "title": "İdefix",
+          "url": "https://www.idefix.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.idefix.com&sz=32",
+          "lastModified": 1774048550118,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "ff750808-0902-4dd4-913e-0f344e0e5070",
+          "title": "Cpanel Yönetim",
+          "url": "https://veni.odeaweb.com:2083/cpsess8451895992/frontend/jupiter/",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048394122,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "a3eb9617-9a17-4699-b5c6-ad79fefe6f98",
+          "title": "Hepsiburada",
+          "url": "https://www.hepsiburada.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.hepsiburada.com&sz=32",
+          "lastModified": 1774048566806,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "0268028a-0ca8-4a70-907e-db58705d521c",
+          "title": "OdeaWeb",
+          "url": "https://www.odeaweb.com/clientarea.php",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.odeaweb.com&sz=32",
+          "lastModified": 1774048407479,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "c3106be4-45ea-49c6-bb49-89266dc710de",
+          "title": "Partner Lotus Lisans",
+          "url": "https://partner.lotuslisans.com.tr/login",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048463237,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "774050ef-2036-4ee2-a8cb-7e6d442b2488",
+          "title": "Stok Bayim",
+          "url": "https://panel.stokbayim.com/giris",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=panel.stokbayim.com&sz=32",
+          "lastModified": 1774048478541,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "1a6f0725-6335-4324-aee0-26c07bfa50df",
+          "title": "Youtube",
+          "url": "https://www.youtube.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32",
+          "lastModified": 1774048492769,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "aa4082e6-19b3-46f3-abc3-853468914157",
+          "title": "Yahoo Mail",
+          "url": "https://mail.yahoo.com/n/?.src=ym&reason=myc",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=mail.yahoo.com&sz=32",
+          "lastModified": 1774048514866,
+          "deleted": false,
+          "position": 6,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "b5c0a6b9-5cc8-4e7a-b071-fdc804eb854a",
+          "title": "Pinterest",
+          "url": "https://tr.pinterest.com/business/hub/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=tr.pinterest.com&sz=32",
+          "lastModified": 1774048595102,
+          "deleted": false,
+          "position": 9,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "765eaeb0-ffeb-4fcf-974d-6951d6abec5c",
+          "title": "Linkedin",
+          "url": "https://www.linkedin.com/feed/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=32",
+          "lastModified": 1774048612845,
+          "deleted": false,
+          "position": 10,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        },
+        {
+          "id": "bdb07f92-4ed4-4590-8764-ab71a5b797ed",
+          "title": "Namaz Vakitleri",
+          "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9676/konya-namaz-vakitleri",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048639341,
+          "deleted": false,
+          "position": 11,
+          "parentCollection": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
       "id": "b7fea125-d5be-4068-84a5-040f57c70637",
       "name": "Kodar.Ninja",
       "isOpen": true,
-      "lastModified": 1774041566378,
+      "lastModified": 1774048653489,
       "deleted": false,
-      "position": 1,
+      "position": 3,
       "bookmarks": [
         {
           "id": "615832c9-67ba-40a4-8dd3-9f69d1f4fb07",
@@ -36,13 +181,48 @@
       ]
     },
     {
-      "id": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788",
-      "name": "2026-03-21",
+      "id": "8f625cda-00f3-4c0b-9861-db3a8eaf4949",
+      "name": "Alışveriş",
       "isOpen": true,
-      "lastModified": 1774041566378,
+      "lastModified": 1774048653489,
+      "deleted": true,
+      "position": 1,
+      "bookmarks": [],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
+      "id": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a",
+      "name": "REIS IT",
+      "isOpen": true,
+      "lastModified": 1774048707178,
       "deleted": false,
       "position": 0,
-      "bookmarks": [],
+      "bookmarks": [
+        {
+          "id": "633c3b20-447b-421a-9c9e-166c9dde9567",
+          "title": "BerqNet",
+          "url": "https://192.168.1.1/auth.html",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048669703,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "7f1893da-8a37-4277-be39-6bebfcd329c1",
+          "title": "Wazuh",
+          "url": "https://192.168.1.194/app/wz-home#/overview/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h,to:now))&_a=(filters:!(),query:(language:kuery,query:''))",
+          "description": "",
+          "icon": "https://192.168.1.194/ui/favicons/favicon-32x32.png",
+          "lastModified": 1774048707178,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        }
+      ],
       "spaces": [
         "Everything"
       ]
@@ -54,7 +234,7 @@
   "leftPaneOpen": true,
   "rightPaneOpen": true,
   "closeWhenSaveTab": true,
-  "activeLeftTab": "settings",
+  "activeLeftTab": "spaces",
   "zenMode": false,
   "spaces": [
     {
@@ -78,5 +258,5 @@
     "repo": "Backup-NinjaTab",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1774048112833
+  "lastSynced": 1774048717496
 }
