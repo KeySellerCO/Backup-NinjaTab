@@ -1,34 +1,144 @@
 {
   "collections": [
     {
-      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
-      "name": "Kodar.Ninja",
+      "id": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a",
+      "name": "REIS IT",
       "isOpen": true,
-      "lastModified": 1774048653489,
+      "lastModified": 1774246828234,
       "deleted": false,
-      "position": 3,
+      "position": 0,
       "bookmarks": [
-        {
-          "id": "615832c9-67ba-40a4-8dd3-9f69d1f4fb07",
-          "title": "Gemini AI",
-          "url": "https://gemini.google.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=32",
-          "lastModified": 1774037642801,
-          "deleted": false,
-          "position": 1,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
-        },
         {
           "id": "3e23ac09-6280-46be-b0b3-2bd6ebd2e685",
           "title": "ChatGPT",
           "url": "https://chatgpt.com/?_tm=project_not_found",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32",
-          "lastModified": 1774030678038,
+          "lastModified": 1774048862341,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "615832c9-67ba-40a4-8dd3-9f69d1f4fb07",
+          "title": "Gemini AI",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=32",
+          "lastModified": 1774048867099,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "633c3b20-447b-421a-9c9e-166c9dde9567",
+          "title": "BerqNet",
+          "url": "https://192.168.1.1/auth.html",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774048669703,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "0d7cc18d-caed-4adc-be78-e90e614686f4",
+          "title": "Viyola Bilişim Hizmetleri",
+          "url": "https://server1.calion.net:8443/login_up.php?success_redirect_url=%2F",
+          "description": "",
+          "icon": "https://server1.calion.net:8443/images/favicon.svg?1773701334",
+          "lastModified": 1774048978909,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "7f1893da-8a37-4277-be39-6bebfcd329c1",
+          "title": "Wazuh",
+          "url": "https://192.168.1.194/app/wz-home#/overview/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h,to:now))&_a=(filters:!(),query:(language:kuery,query:''))",
+          "description": "",
+          "icon": "https://192.168.1.194/ui/favicons/favicon-32x32.png",
+          "lastModified": 1774048707178,
           "deleted": false,
           "position": 4,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "41c71f64-d17c-496f-9864-3d0d21930892",
+          "title": "Lansweeper",
+          "url": "http://localhost:81/login.aspx?loginreturn=%2fDefault.aspx",
+          "description": "Hata Takip",
+          "icon": "http://localhost:81/favicon.ico",
+          "lastModified": 1774246277856,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "9df1ffcd-c9ca-4387-9db7-65f67dd3c0cd",
+          "title": "Zabbix",
+          "url": "http://192.168.1.192/zabbix/zabbix.php?action=dashboard.view&dashboardid=1",
+          "description": "Hata Takip",
+          "icon": "http://192.168.1.192/zabbix/favicon.ico",
+          "lastModified": 1774246267404,
+          "deleted": false,
+          "position": 6,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "082b77ee-9f8c-4f79-9545-30521fe217af",
+          "title": "N8N Proje",
+          "url": "http://192.168.1.192:5678/home/workflows",
+          "description": "N8N Projelerim",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774246250151,
+          "deleted": false,
+          "position": 7,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "79923e73-b639-40b7-a63b-e97769a235e7",
+          "title": "Viyola WebMail",
+          "url": "https://webmail.viyola.com.tr/Mondo/lang/sys/Timeout.aspx",
+          "description": "WebMail Giriş",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774246232479,
+          "deleted": false,
+          "position": 8,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "046b5177-129e-4bce-b4d7-c91ee1f6de6f",
+          "title": "Kuma Server IO",
+          "url": "http://192.168.1.210:3001",
+          "description": "Ping Takip",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774246213243,
+          "deleted": false,
+          "position": 9,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "73bdd9b4-4384-4207-98c0-cc8349cceabe",
+          "title": "Grafana",
+          "url": "http://192.168.1.155:3000",
+          "description": "Arayüz Görselleştirme ve Grafik",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774246349371,
+          "deleted": false,
+          "position": 10,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+        },
+        {
+          "id": "49445f09-791e-43ec-a5d7-661e9e86724d",
+          "title": "LibreNMS",
+          "url": "http://192.168.1.178/login",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+          "lastModified": 1774246828234,
+          "deleted": false,
+          "position": 11,
+          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
         }
       ],
       "spaces": [
@@ -39,9 +149,9 @@
       "id": "7049c00d-7ad5-4612-ae2b-e9f7d3d23788",
       "name": "Kişisel",
       "isOpen": true,
-      "lastModified": 1774048653489,
+      "lastModified": 1774049059589,
       "deleted": false,
-      "position": 2,
+      "position": 1,
       "bookmarks": [
         {
           "id": "2f1526b5-c372-4f1b-8abe-b2303683dc13",
@@ -181,48 +291,82 @@
       ]
     },
     {
-      "id": "8f625cda-00f3-4c0b-9861-db3a8eaf4949",
-      "name": "Alışveriş",
+      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
+      "name": "Kodar.Ninja",
       "isOpen": true,
-      "lastModified": 1774048653489,
+      "lastModified": 1774049059589,
       "deleted": true,
-      "position": 1,
+      "position": 2,
       "bookmarks": [],
       "spaces": [
         "Everything"
       ]
     },
     {
-      "id": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a",
-      "name": "REIS IT",
+      "id": "6cc06632-28e6-4dde-b6d3-1279eccba96c",
+      "name": "Github",
       "isOpen": true,
-      "lastModified": 1774048707178,
+      "lastModified": 1774049217043,
       "deleted": false,
-      "position": 0,
+      "position": 3,
       "bookmarks": [
         {
-          "id": "633c3b20-447b-421a-9c9e-166c9dde9567",
-          "title": "BerqNet",
-          "url": "https://192.168.1.1/auth.html",
+          "id": "2f0b9b9b-8b5d-4a79-8bd2-df5a6f539afb",
+          "title": "ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "url": "https://github.com/ripienaar/free-for-dev",
           "description": "",
-          "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1774048669703,
+          "icon": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "lastModified": 1774049085191,
           "deleted": false,
           "position": 0,
-          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+          "parentCollection": "6cc06632-28e6-4dde-b6d3-1279eccba96c"
         },
         {
-          "id": "7f1893da-8a37-4277-be39-6bebfcd329c1",
-          "title": "Wazuh",
-          "url": "https://192.168.1.194/app/wz-home#/overview/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-24h,to:now))&_a=(filters:!(),query:(language:kuery,query:''))",
+          "id": "dae98a56-1c90-4575-be7b-3838aca48045",
+          "title": "addyosmani/web-quality-skills: Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+          "url": "https://github.com/addyosmani/web-quality-skills",
           "description": "",
-          "icon": "https://192.168.1.194/ui/favicons/favicon-32x32.png",
-          "lastModified": 1774048707178,
+          "icon": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "lastModified": 1774049104916,
           "deleted": false,
           "position": 1,
-          "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
+          "parentCollection": "6cc06632-28e6-4dde-b6d3-1279eccba96c"
+        },
+        {
+          "id": "0d348d22-92c7-4ec0-9b70-c553934027f5",
+          "title": "chatwoot/chatwoot: Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "",
+          "icon": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "lastModified": 1774049214581,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "6cc06632-28e6-4dde-b6d3-1279eccba96c"
+        },
+        {
+          "id": "ec2ebbbc-ead9-4d5d-a09a-35a2b3de9156",
+          "title": "gitroomhq/postiz-app: 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "",
+          "icon": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "lastModified": 1774049217043,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "6cc06632-28e6-4dde-b6d3-1279eccba96c"
         }
       ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
+      "id": "8f625cda-00f3-4c0b-9861-db3a8eaf4949",
+      "name": "Alışveriş",
+      "isOpen": true,
+      "lastModified": 1774049059589,
+      "deleted": true,
+      "position": 4,
+      "bookmarks": [],
       "spaces": [
         "Everything"
       ]
@@ -230,11 +374,11 @@
   ],
   "openInNewTab": true,
   "chromeWindowStates": {},
-  "darkMode": false,
+  "darkMode": true,
   "leftPaneOpen": true,
   "rightPaneOpen": true,
   "closeWhenSaveTab": true,
-  "activeLeftTab": "settings",
+  "activeLeftTab": "spaces",
   "zenMode": false,
   "spaces": [
     {
@@ -248,15 +392,15 @@
   "autoBackup": {
     "enabled": true,
     "frequency": "daily",
-    "keepDays": 7,
+    "keepDays": 3,
     "lastBackup": null,
-    "customFolderName": "TheTabNinja",
-    "useCustomFolder": true
+    "customFolderName": null,
+    "useCustomFolder": false
   },
   "githubConfig": {
     "username": "KeySellerCO",
     "repo": "Backup-NinjaTab",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1774048722720
+  "lastSynced": 1774246831645
 }
