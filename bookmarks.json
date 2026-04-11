@@ -373,12 +373,15 @@
     }
   ],
   "openInNewTab": true,
-  "chromeWindowStates": {},
+  "chromeWindowStates": {
+    "369565193": false,
+    "369565244": false
+  },
   "darkMode": false,
   "leftPaneOpen": true,
   "rightPaneOpen": true,
   "closeWhenSaveTab": true,
-  "activeLeftTab": "settings",
+  "activeLeftTab": "spaces",
   "zenMode": false,
   "spaces": [
     {
@@ -402,5 +405,5 @@
     "repo": "Backup-NinjaTab",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1775854273915
+  "lastSynced": 1775896085495
 }
