@@ -4,7 +4,7 @@
       "id": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a",
       "name": "REIS IT",
       "isOpen": true,
-      "lastModified": 1775286573956,
+      "lastModified": 1776224085090,
       "deleted": false,
       "position": 0,
       "bookmarks": [
@@ -55,10 +55,10 @@
         {
           "id": "046b5177-129e-4bce-b4d7-c91ee1f6de6f",
           "title": "Kuma Server IO",
-          "url": "http://192.168.1.210:3001",
+          "url": "http://192.168.1.186:3001",
           "description": "Ping Takip",
           "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzQ1NmJmNiIvPgo8cGF0aCBkPSJNOCAxMkgxNlY4SDE4VjEySDI0VjE0SDI0VjIwSDI0VjI0SDhWMjBIOFYxNEg4VjEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
-          "lastModified": 1775286571207,
+          "lastModified": 1776224085090,
           "deleted": false,
           "position": 4,
           "parentCollection": "0b0d4b82-682b-4a58-b5d8-9a6063206c3a"
@@ -424,5 +424,5 @@
     "repo": "Backup-NinjaTab",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1776167121824
+  "lastSynced": 1776254185626
 }
